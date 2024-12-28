@@ -8,8 +8,6 @@ all_tickers_dict = all_tickers.fetch_stocks()
 
 st.set_page_config(layout="wide")
 
-st.logo("media\logo.png", size="large")
-
 st.sidebar.header("Choose a Stock")
 selected_stock = st.sidebar.selectbox(
     "Select a stock to analyze:",
