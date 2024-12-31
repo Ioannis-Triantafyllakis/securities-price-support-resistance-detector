@@ -15,7 +15,7 @@ The user can either get all the support & resistance levels of a stock for a spe
 or they can get only the global support and resistance level of the timeframe they choose, as seen below:
 </br>
 </br>
-![Main screen](media\Main_screen_global_levels.PNG)
+![Main screen](https://github.com/Ioannis-Triantafyllakis/securities-price-support-resistance-detector/blob/development/media/Main_screen_global_levels.PNG)
 </br>
 </br>
 Other features:
