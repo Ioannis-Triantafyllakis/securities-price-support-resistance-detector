@@ -9,7 +9,7 @@ The support and resistance levels are calculated based on the fractals' method.
 The user can either get all the support & resistance levels of a stock for a specific timeframe, as below:
 </br>
 </br>
-![Main screen](media\Main_screen.PNG)
+![Main screen](https://github.com/Ioannis-Triantafyllakis/securities-price-support-resistance-detector/blob/development/media/Main_screen.PNG)
 </br>
 </br>
 or they can get only the global support and resistance level of the timeframe they choose, as seen below:
